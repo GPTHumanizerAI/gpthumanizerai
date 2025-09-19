@@ -73,14 +73,15 @@ The tool operates with a straightforward interface where users simply paste thei
 - Pro: $14.99/month, unlimited words/month, ultra fast speed, priority support
 
 ### Walter Writes AI
+![Walter Writes AI Scan Result](https://github.com/GPTHumanizerAI/gpthumanizerai/blob/main/assets/Walter%20Writes%20AI%20Humanized%20Result.jpg)
 
 Walter Writes AI stands out as one of the most accurate and consistent AI humanizers available today. It's designed to transform AI-generated content into writing that feels genuinely human—natural, fluid, and detection-safe. What makes Walter unique is its ability to adapt to different writing styles and contexts.
 
 This premium-focused platform targets professional content creators and businesses requiring consistent, high-quality humanization. Walter Writes emphasizes contextual understanding over simple word replacement, resulting in more natural-sounding output.
 
 **Test Results: 0% AI probability (Excellent)**
-![Walter Writes AI Humanized Result](https://github.com/GPTHumanizerAI/gpthumanizerai/blob/main/assets/Walter%20Writes%20AI%20Humanized%20Result.jpg)
 
+![Walter Writes AI Humanized Result](https://github.com/GPTHumanizerAI/gpthumanizerai/blob/main/assets/Walter%20Writes%20AI%20Scan%20Result.png)
 **Pros:**
 - Superior content quality and naturalness
 - Multiple writing style options
@@ -93,7 +94,7 @@ This premium-focused platform targets professional content creators and business
 - Humanized content increases word count significantly
 
 **Free Plan Details:**
-Walter Writes offers a 7-day free trial with 500 words of processing credit. After the trial, the minimum plan starts at $29/month for 15,000 words. No ongoing free tier is available, making it less accessible for casual users.
+Walter Writes offers a 3-day free trial with 300 words of processing credit. After the trial, the minimum plan starts at $12/month for 30,000 words and 750 words/request. 
 
 ### StealthWriter AI
 
